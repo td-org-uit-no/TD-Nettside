@@ -1,0 +1,115 @@
+
+      @import url(https://fonts.googleapis.com/css?family=Roboto:100,300,400,500);
+      @font-face {
+        font-family: 'Comic Neue';
+        src: url('ComicNeue-Bold-Oblique.eot');
+        src: url('ComicNeue-Bold-Oblique.eot?#iefix') format('embedded-opentype'),
+             url('ComicNeue-Bold-Oblique.woff2') format('woff2'),
+             url('ComicNeue-Bold-Oblique.woff') format('woff'),
+             url('ComicNeue-Bold-Oblique.ttf')  format('truetype');
+        font-weight: 700;
+        font-style: oblique;
+      }
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        min-width: 500px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+      }
+
+      .wrapper {
+        width: 100%;
+        text-align: center;
+        padding: 300px 0;
+      }
+
+      .td-logo {
+        max-width: 500px;
+        margin: 0 auto;
+        text-transform: uppercase;
+      }
+
+      svg {
+        margin-bottom: 15px;
+      }
+
+      .top, .bottom {
+        font-weight: 300;
+        font-size: 30px;
+        letter-spacing: 8px;
+      }
+      .top p {
+        color: #d6a454;
+        display: inline;
+      }
+
+      .hr {
+        width: 90%;
+        margin: 12px auto;
+        height: 2px;
+        background-color: #2a95a9;
+      }
+
+      .bottom {
+        font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 4px;
+      }
+
+      #logo-white {
+        background-color: #FFF;
+      }
+
+      #logo-dark {
+        background-color: #242942;
+      }
+      #logo-dark .logo {
+        color: #FFF;
+      }
+      #logo-dark .hr {
+        background-color: #FFF;
+      }
+
+      #logo-td {
+        background-color: #FFF;
+      }
+      #logo-td .logo {
+        color: #241f20;
+      }
+      #logo-td .top p {
+        color: #cb333b;
+      }
+      #logo-td .hr {
+        background-color: #241f20;
+      }
+      #logo-td-dark .logo {
+        color: #FFF;
+      }
+      #logo-td-dark .top p {
+        color: #cb333b;
+      }
+      #logo-td-dark .hr {
+        background-color: #FFF;
+      }
+
+      #logo-csans {
+        font-family: 'Comic Neue', sans-serif;
+        font-feature-settings: "kern";
+        -moz-font-feature-settings: "kern";
+        -webkit-font-feature-settings: "kern";
+        line-height: 1.5;
+      }
+      #logo-csans .logo {
+        color: #dfff00;
+      }
+      #logo-csans .top p {
+        color: #00fbff;
+      }
+      #logo-csans .hr {
+        background-color: #ff00e9;
+      }
+    

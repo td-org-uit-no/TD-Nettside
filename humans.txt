@@ -1,0 +1,20 @@
+---
+layout: null
+sitemap:
+exclude: 'yes'
+---
+
+/* MAINTAINER */
+Name: Nikolai Magnussen
+Twitter: @nikolai_mag
+Site: https://thoughts.magnussen.tf
+Location: Tromsø, Norway
+						
+/* THANKS */
+Name: Josh Gerdes for theme
+
+/* SITE */
+Last update: {{ site.time | date: "%Y/%m/%d" }}
+Standards: HTML5, CSS3
+Components: Jekyll
+Software: Sublime Text, Photoshop
