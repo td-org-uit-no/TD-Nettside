@@ -20,7 +20,7 @@ defaults:
 # Build settings
 destination: _site
 paginate: 10
-permalink: /:year/:title/
+paginate_path: "arrangementer/page:num"
 markdown: kramdown
 highlighter: rouge
 
