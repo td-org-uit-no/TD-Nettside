@@ -4,25 +4,28 @@ date:   2018-09-09 13:37:00
 categories: [workshop]
 tags: [workshop]
 ---
+
+DIPS AS inviterer til Pizza, brus og øl i våre lokaler Torsdag 20. september 2018 klokken 16:00. Vi vil kjøre en kort bedriftspresentasjon, workshop med oppgaveløsing og intervjuer. I tillegg drar vi en tur ut på byen for de som ønsker. 
+
 __TL;DR:__
-- Hva: Workshop “Lag ditt eget programmeringsspråk”
-- Når: 21. mars kl 14:00 - 19:00
-- Mat: Lett bespisning underveis og middag på Suvi kl 19
-- Påmelding: [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSemU3CUEg2i9_ZfMFxRWBw9FJ58SjJOgDG4VNiSsPgMROPhbA/viewform)
-- Påmeldingsfrist: Mandag 19. mars
-- Plasser: 25
-- Bedrift: [Bekk Consulting](https://bekk.no)
+- **Hva:** Workshop "Kryssplatform web applikasjon i .Net Core"
+- **Når:** 20. september kl 16:00
+- **Hvor:** DIPS sørger for transport fra universitetet
+- **Mat:** Pizza, brus og øl
+- **Bedrift:** [DIPS AS](https://www.dips.com/no)
 
-Hvert semester liker vi i Bekk å ta turen til Tromsø for å gi dere faglig påfyll gjennom workshopps. Denne gangen tar vi med en workshop som heter “Lag ditt eget programmeringsspråk”. Det høres kanskje skummelt ut, men det er ikke så vanskelig - dette er en workshop som passer alle som har kodet litt før. I workshoppen bruker du python til å lage ditt eget programmeringsspråk fra bunnen av. Å lage et eget språk er gøy og ganske lærerikt da du får en mye bedre forståelse av hvordan programmeringsspråk faktisk fungerer
+Påmelding sendes på mail, så husk å sjekke mailen din!
 
-Dette er en workshop som har blitt holdt mange ganger før både i Norge og på konferanser utenlands. Den er laget slik at man får testet løsningen sin underveis slik at man ikke sitter fast lenge og får til mer. I tillegg stiller vi selvfølgelig med flere ansatte som hjelper til.
+Vi ønsker at du skal bli bedre kjent med oss og hvilke muligheter som finnes i DIPS. Vi ønsker å ansette flere nyutdannede til Tromsø, Bodø, Trondheim eller Oslo kontoret vårt. Hvis du ønsker å jobbe i DIPS så vil vi tilby speedintervju!
 
-Under workshoppen vil det bli servert lett matt og drikke, og når vi er ferdig tar vi taxi til sentrum for mat og drikke på Suvi 🍛🍣
+De 30 første som melder seg på Pizza, øl og workshoppen får delta på den. Speedintervju vil vi arrangere for alle som ønsker mulighet til å jobbe i DIPS.
 
-Ta kontakt på [guro.seternes@bekk.no](mailto:guro.seternes@bekk.no) hvis dere har noen spørsmål, vi gleder oss til å kode sammen med dere 😊
+I workshoppen skal vi vise hvordan .Net Core lar oss lage en kryssplattform web applikasjon, før vi bruker Docker som kjøremiljø og vi til slutt deler den opp i flere mikrotjenester som vi orkestrerer med Docker Compose.
+Frist for påmelding er fredag 14. September og påmeldingsskjema sendes ut pr epost
 
+DIPS AS sørger for transport fra Universitetet til DIPS AS sine nye og fine lokaler på Stakkevolveien 41.
 Vell møtt!
 
 Minner at vi også kan nåes på [td@list.uit.no](mailto:td@list.uit.no) hvis du lurer på noe.
 
-[Lenke til arrangementet på facebook](https://www.facebook.com/events/305373643321064/)
+[Lenke til arrangementet på facebook](https://www.facebook.com/events/290961518163531/)
