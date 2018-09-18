@@ -1,8 +1,8 @@
 ---
-title:  "Workshop med Bekk"
-date:   2018-03-14 13:37:00
-categories: [workshop]
-tags: [workshop]
+title:  "19. September - Filmkveld med TD"
+date:   2018-09-10 13:37:00
+categories: [sosialt]
+tags: [sosialt]
 ---
 __TL;DR:__
 - Hva: Workshop “Lag ditt eget programmeringsspråk”
