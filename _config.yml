@@ -8,6 +8,7 @@ author:
   name: 'Tromsøstudentenes Dataforening'
   email: td@list.uit.no
   facebook_username: tromsodataforening
+  github_username: td-org-uit-no
 
 defaults:
   -
