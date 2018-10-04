@@ -16,6 +16,8 @@ I denne workshopen kan du bli med å se hvordan vi i Computas involverer beslutn
 Det vil bli lett matservering under workshoppen, og senere drar vi ut på byen for middag og mingling!
 
 
+
+
 Minner at vi også kan nåes på [td@list.uit.no](mailto:td@list.uit.no) hvis du lurer på noe.
 
 [Lenke til arrangementet på facebook](https://www.facebook.com/events/833643670174785/)
