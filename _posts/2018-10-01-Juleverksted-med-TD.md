@@ -1,6 +1,6 @@
 ---
 title:  "06. Desember - Juleverksted med TD"
-date:   2018-09-06 13:37:00
+date:   2018-08-31 13:37:00
 categories: [sosialt]
 tags: [sosialt]
 ---
