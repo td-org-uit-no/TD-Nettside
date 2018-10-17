@@ -7,7 +7,7 @@ tags: [sosialt]
 
 Tenke seg til at vi allerede er halvveis i semesteret? Med det vil vi gi dere noe å glede dere til, så vi vil gjerne invitere alle TD medlemmene til TD's julebord!
 
-Mellom eksamener og innleveringer vil vi skvise inn litt hygge og julestemning den 3. November kl 18.00. Det vil være middag, aktiviteter, mingling og morro. Dere må gjerne ta med noe godt i glasset. 
+Mellom eksamener og innleveringer vil vi skvise inn litt hygge og julestemning den 3. November kl 18.00 på HHT-kantina. Det vil være middag, aktiviteter, mingling og morro. Dere må gjerne ta med noe godt i glasset. 
 
 Arrangmentet koster 200kr og kan betales på vipps til 94847169(Fredrik) eller på konto til 0530.22.72680. Husk å skrive navn hvis du skal betale for flere. Påmelding er bare gyldig ved betalt billett.
 
