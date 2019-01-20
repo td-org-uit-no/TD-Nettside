@@ -7,9 +7,9 @@ tags: [sosialt]
 
 Vi gjentar suksessen med Mingling & Minigolf den 17. Oktober!
 
-De har salg av øl, mulighet for å spille minigolf (90 kr), og store lokaler som skapt for mingling. 
+De har salg av øl, mulighet for å spille minigolf (90 kr), og store lokaler som skapt for mingling.
 
-Det vil også bli en premie til den beste på hvert lag! 
+Det vil også bli en premie til den beste på hvert lag!
 
 Gleder oss til å se dere der :-)
 Vell møtt!

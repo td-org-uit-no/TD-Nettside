@@ -5,7 +5,7 @@ categories: [sosialt]
 tags: [sosialt]
 ---
 
-Vi viser film på kinoen på Teorifagsbygget . Det blir servert godis, drikke og kaffe! Kom å ta en pause fra programmeringa!
+Vi viser film på kinoen på Teorifagsbygget. Det blir servert godis, drikke og kaffe! Kom å ta en pause fra programmeringa!
 
 Filmen starter litt etter 16.30
 Vell møtt!

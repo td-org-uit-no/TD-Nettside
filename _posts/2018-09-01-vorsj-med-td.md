@@ -5,7 +5,7 @@ categories: [sosialt]
 tags: [sosialt]
 ---
 
-Vi arrangerer årets andre vors med TD! 
+Vi arrangerer årets andre vors med TD!
 
 Det vil bli prat, morsomheter og god stemning. Og ikke minst er det en veldig fin mulighet til å mingle med resten av medlemmene i TD og andre informatikkstudenter. Kom å delta på en heftig kveld sammen med oss!
 

@@ -5,9 +5,10 @@ categories: [workshop]
 tags: [workshop]
 ---
 
-DIPS AS inviterer til Pizza, brus og øl i våre lokaler Torsdag 20. september 2018 klokken 16:00. Vi vil kjøre en kort bedriftspresentasjon, workshop med oppgaveløsing og intervjuer. I tillegg drar vi en tur ut på byen for de som ønsker. 
+DIPS AS inviterer til Pizza, brus og øl i våre lokaler Torsdag 20. september 2018 klokken 16:00. Vi vil kjøre en kort bedriftspresentasjon, workshop med oppgaveløsing og intervjuer. I tillegg drar vi en tur ut på byen for de som ønsker.
 
 __TL;DR:__
+
 - **Hva:** Workshop "Kryssplatform web applikasjon i .Net Core"
 - **Når:** 20. september kl 16:00
 - **Hvor:** DIPS sørger for transport fra universitetet
