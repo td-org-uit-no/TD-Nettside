@@ -1,5 +1,5 @@
 ---
-title:  "23. Oktober - Bedriftspresentasjon med Mnemonic"
+title:  "23. Oktober 2018 - Bedriftspresentasjon med Mnemonic"
 date:   2018-09-02 13:37:00
 categories: [Bedriftspresentasjon] 
 tags: [bedriftspresentasjon]

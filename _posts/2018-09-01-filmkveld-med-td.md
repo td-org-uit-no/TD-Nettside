@@ -1,5 +1,5 @@
 ---
-title:  "19. September - Filmkveld med TD"
+title:  "19. September 2018 - Filmkveld med TD"
 date:   2018-09-10 13:37:00
 categories: [sosialt]
 tags: [sosialt]

@@ -1,5 +1,5 @@
 ---
-title:  "25. Januar - Vorsj med TD"
+title:  "25. Januar 2019 - Vorsj med TD"
 date:   2019-01-20 13:37:03
 categories: [sosialt]
 tags: [sosialt]

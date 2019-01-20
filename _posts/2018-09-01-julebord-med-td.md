@@ -1,5 +1,5 @@
 ---
-title:  "03. November - Julebord med TD"
+title:  "03. November 2018 - Julebord med TD"
 date:   2018-09-01 13:37:00
 categories: [sosialt]
 tags: [sosialt]

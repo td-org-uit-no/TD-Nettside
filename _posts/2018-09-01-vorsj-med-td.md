@@ -1,5 +1,5 @@
 ---
-title:  "12. Oktober - Vorsj med TD"
+title:  "12. Oktober 2018 - Vorsj med TD"
 date:   2018-09-05 13:37:00
 categories: [sosialt]
 tags: [sosialt]

@@ -1,5 +1,5 @@
 ---
-title:  "14. Februar - Javazone Academy"
+title:  "14. Februar 2019 - Javazone Academy"
 date:   2019-01-20 13:37:00
 categories: [] 
 tags: []

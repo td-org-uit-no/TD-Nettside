@@ -1,5 +1,5 @@
 ---
-title:  "20. September - Workshop med Dips"
+title:  "20. September 2018 - Workshop med Dips"
 date:   2018-09-09 13:37:00
 categories: [workshop]
 tags: [workshop]

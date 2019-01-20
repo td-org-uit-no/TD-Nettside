@@ -1,5 +1,5 @@
 ---
-title:  "06. Desember - Juleverksted med TD"
+title:  "06. Desember 2018 - Juleverksted med TD"
 date:   2018-08-31 13:37:00
 categories: [sosialt]
 tags: [sosialt]

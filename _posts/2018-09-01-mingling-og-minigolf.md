@@ -1,5 +1,5 @@
 ---
-title:  "17. Oktober - Mingling & Minigolf"
+title:  "17. Oktober 2018 - Mingling & Minigolf"
 date:   2018-09-04 13:37:00
 categories: [sosialt]
 tags: [sosialt]

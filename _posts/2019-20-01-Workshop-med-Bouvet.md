@@ -1,5 +1,5 @@
 ---
-title:  "4. Februar - Workshop med Bouvet"
+title:  "4. Februar 2019 - Workshop med Bouvet"
 date:   2019-01-20 13:37:01
 categories: [workshop] 
 tags: [workshop]

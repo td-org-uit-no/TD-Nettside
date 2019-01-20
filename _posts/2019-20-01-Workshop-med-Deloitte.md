@@ -1,5 +1,5 @@
 ---
-title:  "29. Januar - Workshop med Deloitte"
+title:  "29. Januar 2019 - Workshop med Deloitte"
 date:   2019-01-20 13:37:02
 categories: [workshop] 
 tags: [workshop]

@@ -1,5 +1,5 @@
 ---
-title:  "08. Oktober - Workshop med Computas"
+title:  "08. Oktober 2018 - Workshop med Computas"
 date:   2018-09-06 13:37:00
 categories: [workshop]
 tags: [workshop]
